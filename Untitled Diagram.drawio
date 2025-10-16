@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1" version="28.2.7">
   <diagram name="Page-1" id="4IQad3wjeDD_kyq1BnuH">
-    <mxGraphModel dx="426" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1253" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,17 +48,14 @@
         <mxCell id="5AEv4PqNBgSLxUeXRFM--10" value="Last message id = 0" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="770" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="5AEv4PqNBgSLxUeXRFM--51" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5AEv4PqNBgSLxUeXRFM--13" target="5AEv4PqNBgSLxUeXRFM--50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5AEv4PqNBgSLxUeXRFM--13" value="Select conversation" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="150" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5AEv4PqNBgSLxUeXRFM--18" value="" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="198.84465981467736" y="759.9709558335519" width="5.497105614253328" height="5.48851319571494" as="geometry" />
-        </mxCell>
-        <mxCell id="5AEv4PqNBgSLxUeXRFM--30" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="5AEv4PqNBgSLxUeXRFM--22" target="5AEv4PqNBgSLxUeXRFM--29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5AEv4PqNBgSLxUeXRFM--22" value="Get thread" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="950" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5AEv4PqNBgSLxUeXRFM--36" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="5AEv4PqNBgSLxUeXRFM--26" target="5AEv4PqNBgSLxUeXRFM--35">
           <mxGeometry relative="1" as="geometry" />
@@ -71,19 +68,13 @@
         <mxCell id="5AEv4PqNBgSLxUeXRFM--26" value="Exec prompt" style="rhombus;whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="175" y="1370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5AEv4PqNBgSLxUeXRFM--33" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="5AEv4PqNBgSLxUeXRFM--29" target="5AEv4PqNBgSLxUeXRFM--32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5AEv4PqNBgSLxUeXRFM--29" value="Update conversation&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1070" width="115" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="5AEv4PqNBgSLxUeXRFM--34" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="5AEv4PqNBgSLxUeXRFM--32" target="5AEv4PqNBgSLxUeXRFM--26">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5AEv4PqNBgSLxUeXRFM--32" value="Show conversation in Ui" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5AEv4PqNBgSLxUeXRFM--38" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="5AEv4PqNBgSLxUeXRFM--35" target="5AEv4PqNBgSLxUeXRFM--37">
           <mxGeometry relative="1" as="geometry" />
@@ -97,13 +88,25 @@
         <mxCell id="5AEv4PqNBgSLxUeXRFM--37" value="Get thread" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="354" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5AEv4PqNBgSLxUeXRFM--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5AEv4PqNBgSLxUeXRFM--39" target="5AEv4PqNBgSLxUeXRFM--32">
+        <mxCell id="5AEv4PqNBgSLxUeXRFM--47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5AEv4PqNBgSLxUeXRFM--39" target="5AEv4PqNBgSLxUeXRFM--50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="1290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5AEv4PqNBgSLxUeXRFM--39" value="Update conversation&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="356.5" y="1630" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5AEv4PqNBgSLxUeXRFM--49" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5AEv4PqNBgSLxUeXRFM--48" target="5AEv4PqNBgSLxUeXRFM--13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5AEv4PqNBgSLxUeXRFM--48" value="Load user conversations" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5AEv4PqNBgSLxUeXRFM--53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5AEv4PqNBgSLxUeXRFM--50" target="5AEv4PqNBgSLxUeXRFM--32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5AEv4PqNBgSLxUeXRFM--50" value="Load conversion" style="whiteSpace=wrap;html=1;rounded=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
